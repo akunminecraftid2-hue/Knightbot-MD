@@ -1,5 +1,5 @@
 {
-  "name": "knightbot",
+  "name": "ZaeBot",
   "version": "1.0.0",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -18,7 +18,7 @@
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "",
+  "author": "Zae",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
